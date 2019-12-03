@@ -4,7 +4,7 @@
   background-image:none;
   position:relative;
   left:0px;
-  width:1120px;
+  width:1096px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -467,20 +467,12 @@
   width:250px;
   height:235px;
 }
-#u0-4 {
-  border-width:0px;
-  position:absolute;
-  left:846px;
-  top:24px;
-  width:250px;
-  height:235px;
-}
 #u0 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:187px;
-  width:1120px;
+  width:846px;
   height:283px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
