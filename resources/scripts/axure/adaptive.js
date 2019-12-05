@@ -597,6 +597,7 @@
         $container.niceScroll(options);
         //clean up nicescroll css so child scroll containers show scrollbars in IE
         if (IE) $container.css({ '-ms-overflow-y': '', '-ms-overflow-style': '' });
+        if(IOS) $container.css({ 'overflow-y': ''});
     }
 
 
